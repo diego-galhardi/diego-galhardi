@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Diego Galhardi
 
-- 🔭 I'm specialised in backend development
+- 🔭 I'm specialised in backend development, software engineering and cybersecurity. Currently, I am studying to obtain AWS certifications.
 
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=diegowsu&label=Profile%20views&color=0e75b6&style=flat" alt="diegowsu" /> 	  
